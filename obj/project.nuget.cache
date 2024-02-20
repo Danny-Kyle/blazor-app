@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FBfx30LK+4s6Q0T+5JpTZxy0Ale81GlhcfHFEpYfvX8KNyKvpkFryeji7cZZg9f67sXBntOp5HdR/jYKqsdjuQ==",
+  "dgSpecHash": "yRLhwYT0l0bft/w+2KZyVib6vexz3buIAlPdfsa0SF0GMOZIDcXJL+LvRNxd7DQ2MeWGP50UETTT4OS8vCRrPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diked\\Documents\\Devworks\\sharpproj\\blazorapp\\blazorapp.csproj",
+  "projectFilePath": "C:\\Users\\diked\\Documents\\DevWorks\\sharpproj\\blazorapp\\blazorapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

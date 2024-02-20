@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diked\\Documents\\Devworks\\sharpproj\\blazorapp\\blazorapp.csproj": {}
+    "C:\\Users\\diked\\Documents\\DevWorks\\sharpproj\\blazorapp\\blazorapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diked\\Documents\\Devworks\\sharpproj\\blazorapp\\blazorapp.csproj": {
+    "C:\\Users\\diked\\Documents\\DevWorks\\sharpproj\\blazorapp\\blazorapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diked\\Documents\\Devworks\\sharpproj\\blazorapp\\blazorapp.csproj",
+        "projectUniqueName": "C:\\Users\\diked\\Documents\\DevWorks\\sharpproj\\blazorapp\\blazorapp.csproj",
         "projectName": "blazorapp",
-        "projectPath": "C:\\Users\\diked\\Documents\\Devworks\\sharpproj\\blazorapp\\blazorapp.csproj",
+        "projectPath": "C:\\Users\\diked\\Documents\\DevWorks\\sharpproj\\blazorapp\\blazorapp.csproj",
         "packagesPath": "C:\\Users\\diked\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diked\\Documents\\Devworks\\sharpproj\\blazorapp\\obj\\",
+        "outputPath": "C:\\Users\\diked\\Documents\\DevWorks\\sharpproj\\blazorapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diked\\AppData\\Roaming\\NuGet\\NuGet.Config"
